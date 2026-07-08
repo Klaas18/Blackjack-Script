@@ -1,0 +1,17 @@
+/*#dealerDiv,
+#playerDiv {
+    background-color: green;
+    /* display: inline-block;
+
+}  */
+
+
+/* Fix Green Background */
+
+#dealerCards,
+#playerCards {
+    border-style: solid;
+    border-color: aliceblue;
+
+    margin: 10px;
+}
